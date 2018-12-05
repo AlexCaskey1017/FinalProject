@@ -1,5 +1,3 @@
-# FinalProject
-
 # How to keep your computer secure
 
 ## Alex Caskey
@@ -50,7 +48,7 @@
 
 #### Hacking is not just in small coffee shops. Large multi-billion dollar companies suffer from hackers too. Some recent examples of this could be in 2014 when Sony was hacked and data from the film studio was exposed, or the year before that when Target was and milions of peoples credit cards information was leaked. 
 #### more than 50% of cyberhacks are because of user error. I believe one way to fix this problem is to have employees do trainning sessions.
-[Here is a link to the top 25 cybersecurity training and certification programs](https://cybersecurityventures.com/cybersecurity-education/)
+[top 25 cybersecurity training and certification programs](https://cybersecurityventures.com/cybersecurity-education/)
 
 #### One company I lke from that list and really stands out is KnowBe4. They are different because of how they can adapt to any company. Whether it is: big, small, all in one building or all work from home. They also have tons of free tools that theri customers can use such as: Phishing security test,USB secure test and a weak password test.
 [KnowBe4](https://www.knowbe4.com/)

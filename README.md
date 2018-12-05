@@ -15,8 +15,9 @@
 ## Background Information
  
 #### Here is some background information on the history of Hacking and Viruses.
-[Wikipedia Hacking](https://en.wikipedia.org/wiki/Hacker)
-[Wikipedia Viruses](https://en.wikipedia.org/wiki/Computer_virus)
+[Hacking](https://en.wikipedia.org/wiki/Hacker)
+
+[Viruses](https://en.wikipedia.org/wiki/Computer_virus)
 
 ## Basic Attacks
 

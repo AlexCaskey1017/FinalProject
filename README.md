@@ -1,4 +1,4 @@
-# How to keep your computer secure
+# How To Keep Your Computer Secure
 
 ## Alex Caskey
 

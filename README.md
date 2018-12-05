@@ -28,6 +28,7 @@
 
 #### Watch the videos of cyber security to understand IT and Computer Science rolls that are put inplace to prevent hackers.
 [YouTube 12:29](https://www.youtube.com/watch?v=bPVaOlJ6ln0)
+
 [YouTube 11:52](https://www.youtube.com/watch?v=_GzE99AmAQU)
 
 ## Jobs in the field of cyber security
@@ -38,7 +39,7 @@
 ## Easy ways to prevent being hacked.
 
 #### read the folowing article for 6 easy tips to get you a head of the hackers
-[List of tips](https://www.inc.com/jon-levy/6-expert-tips-to-avoid-getting-hacked.html)
+[6 easy tips](https://www.inc.com/jon-levy/6-expert-tips-to-avoid-getting-hacked.html)
 
 ## Public Wifi
 
@@ -52,7 +53,7 @@
 [Here is a link to the top 25 cybersecurity training and certification programs](https://cybersecurityventures.com/cybersecurity-education/)
 
 #### One company I lke from that list and really stands out is KnowBe4. They are different because of how they can adapt to any company. Whether it is: big, small, all in one building or all work from home. They also have tons of free tools that theri customers can use such as: Phishing security test,USB secure test and a weak password test.
-[Their Website](https://www.knowbe4.com/)
+[KnowBe4](https://www.knowbe4.com/)
 
 
 

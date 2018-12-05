@@ -18,7 +18,7 @@
 [Wikipedia Hacking](https://en.wikipedia.org/wiki/Hacker)
 [Wikipedia Viruses](https://en.wikipedia.org/wiki/Computer_virus)
 
-## H2 Basic Attacks
+## Basic Attacks
 
 #### Watch the video of the 8 most common cyber attacks.
 [YouTube 22:03](https://www.youtube.com/watch?v=Dk-ZqQ-bfy4)
